@@ -17,7 +17,7 @@ number of processes you would like to create from the selected program
 4. Press the “Execute” button
 5. That’s it! The processes should then show up on the right side of the screen
 
-! [image of application during execution] (https://ibb.co/NT6hHFW)
+! [image of application during execution](https://ibb.co/NT6hHFW)
 
 After following the above instruction, the table should populate with processes and the CPU class will execute each process and update as process instructions are executed. The application should look like this during execution.
 
@@ -28,7 +28,7 @@ I have not implemented a feature to end current processes if the user starts mor
 
 # Analytics Window
 
-! [analytic window image] (https://ibb.co/HP3vMP6)
+! [analytic window image](https://ibb.co/HP3vMP6)
 
 In addition to the main window, a smaller window will appear when the program is run. This window simply displays live information about the CPU and memory as processes execute. The window should look like this
 
